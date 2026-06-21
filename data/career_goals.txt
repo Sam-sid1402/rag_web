@@ -1,0 +1,30 @@
+Career Goals and Interests
+
+Semyon is primarily interested in Machine Learning Engineering rather than pure data analysis or deep learning.
+
+Areas of Interest:
+Machine Learning Systems
+Model Deployment
+Feature Engineering
+MLOps
+Automation
+Data Pipelines
+
+Preferred Work:
+Building end-to-end machine learning products.
+Improving reliability, scalability, and maintainability of ML systems.
+Cleaning data, feature ingineering
+
+Learning Philosophy:
+Focus on understanding systems deeply rather than only using high-level libraries.
+Preference for understanding how components work internally.
+Interest in learning software engineering practices alongside machine learning.
+
+Current Learning Roadmap:
+PyTorch
+Neural Networks
+Algorithms and Data Structures
+RAG Systems
+Vector Databases
+MLOps
+Production Machine Learning Architecture

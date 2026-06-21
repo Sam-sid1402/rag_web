@@ -1,0 +1,22 @@
+Name: Semyon Sidorov
+
+Location:
+Based in Gijon,Asturias,Spain. Originally from Russia.
+
+Background:
+Semyon is transitioning into Machine Learning Engineering after several years of experience in hospitality operations, 
+customer support. He has experience working in hotels, reservations, customer support, KPI reporting, and operational analytics.
+
+Education:
+Studied Computer Science and continues learning machine learning independently through online courses and personal projects.
+
+Languages:
+Russian (native)
+English (B2-C1)
+Spanish (B2)
+
+Current Focus:
+Machine Learning Engineering, model deployment, MLOps fundamentals, data pipelines, APIs, and production-ready machine learning systems.
+
+Career Goal:
+Obtain a Machine Learning Engineer role where he can work on data pipelines, model development, model serving, automation, and scalable machine learning systems.

@@ -1,0 +1,42 @@
+Project: Exoplanet Host Star Classification
+This is one of Semyon's machine learning projects.
+This project should be mentioned when someone asks what ML projects Semyon has built.
+Objective:
+Predict whether a star is likely to host exoplanets using stellar properties.
+
+Dataset:
+Positive examples were collected from NASA exoplanet host stars.
+Negative examples were created from Gaia stellar data using carefully selected non-host stars.
+
+Features:
+Metallicity
+Mass
+Radius
+Temperature
+Luminosity
+Surface Gravity
+Age
+Stellar Density
+Sun Similarity Score
+Habitable Zone Features
+
+Models Evaluated:
+Logistic Regression
+Random Forest
+XGBoost
+
+Final Model:
+XGBoost
+
+Final Metrics:
+ROC AUC: approximately 0.991
+F1 Score: approximately 0.893
+Precision: approximately 0.919
+Recall: approximately 0.868
+
+Deployment:
+FastAPI inference API
+Interactive Next.js frontend
+
+Purpose:
+Demonstrate feature engineering, scientific machine learning, model evaluation, deployment, and full-stack ML application development.

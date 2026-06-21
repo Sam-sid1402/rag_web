@@ -1,0 +1,53 @@
+Projects Overview
+
+Semyon Sidorov has built several end-to-end machine learning projects focused on machine learning engineering, model deployment, 
+feature engineering, and production-style ML systems.
+
+Machine Learning Projects
+
+1. Real-Time Fraud Detection System
+
+This machine learning project focuses on detecting fraudulent credit card transactions.
+
+Main technologies:
+- Python
+- Scikit-learn
+- XGBoost
+- LightGBM
+- Optuna
+- SHAP
+- FastAPI
+
+Key features:
+- Feature engineering
+- Hyperparameter optimization
+- Threshold tuning
+- Explainable AI
+- Real-time prediction API
+- Deployment to cloud services
+
+Final performance:
+- ROC AUC approximately 0.997
+- F1 Score approximately 0.86
+
+2. Exoplanet Host Star Classification
+
+This machine learning project predicts whether a star is likely to host exoplanets using stellar characteristics.
+
+Main technologies:
+- Python
+- Scikit-learn
+- XGBoost
+- FastAPI
+
+Key features:
+- Scientific machine learning
+- Feature engineering
+- Model evaluation
+- Interactive prediction interface
+- Deployment as a web application
+
+Final performance:
+- ROC AUC approximately 0.991
+- F1 Score approximately 0.893
+

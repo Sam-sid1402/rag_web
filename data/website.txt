@@ -1,0 +1,29 @@
+Website: Semyon Sidorov Portfolio
+
+This website is Semyon Sidorov's personal portfolio website.
+
+Domain:
+samsid1402.com
+
+Purpose:
+The website presents Semyon's machine learning engineering portfolio, technical skills, deployed projects, and professional background.
+
+Main Function:
+The portfolio website allows visitors to learn about Semyon's background, machine learning projects, technical stack, deployment experience, and career goals.
+
+Interactive Features:
+The website includes interactive machine learning demos and project pages. Visitors can test deployed ML applications through the web interface.
+
+Featured Projects:
+- Real-Time Fraud Detection System
+- Exoplanet Host Star Classification
+- Portfolio RAG Assistant
+
+Portfolio RAG Assistant:
+The Portfolio RAG Assistant is an AI assistant embedded in the portfolio website. Its purpose is to answer questions about Semyon, his skills, experience, machine learning projects, deployment experience, and career direction.
+
+Technology Stack:
+The website uses Next.js, React, and Tailwind CSS on the frontend. Machine learning APIs are served with FastAPI. Deployment uses Vercel for the frontend and Render for backend services.
+
+Positioning:
+The website is designed to show Semyon's ability to build end-to-end machine learning systems, deploy models, create APIs, and present technical projects in a professional portfolio format.

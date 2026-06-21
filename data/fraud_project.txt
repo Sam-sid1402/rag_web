@@ -1,0 +1,48 @@
+Project: Real-Time Fraud Detection System
+This is one of Semyon's machine learning projects.
+This project should be mentioned when someone asks what ML projects Semyon has built.
+Objective:
+Build an end-to-end machine learning system capable of detecting fraudulent credit card transactions in near real time.
+
+Dataset:
+The project uses a highly imbalanced transaction dataset containing legitimate and fraudulent credit card transactions.
+
+Feature Engineering:
+Transaction history features
+Customer behavior features
+Amount-based features
+Distance calculations
+Time-based features
+Frequency encodings
+
+Models Evaluated:
+Logistic Regression
+Random Forest
+XGBoost
+LightGBM
+
+Optimization:
+Optuna was used for hyperparameter optimization.
+Stratified cross-validation was used for model evaluation.
+
+Final Model:
+XGBoost
+
+Final Metrics:
+ROC AUC: 0.997
+F1 Score: 0.8607
+Precision: 0.8612
+Recall: 0.8601
+
+Additional Features:
+Threshold optimization
+Risk scoring system
+Business decision engine
+SHAP explainability
+
+Deployment:
+FastAPI backend deployed on Render.
+Next.js frontend deployed on Vercel.
+
+Purpose:
+Demonstrate production-style machine learning development including feature engineering, model serving, explainability, deployment, and monitoring considerations.

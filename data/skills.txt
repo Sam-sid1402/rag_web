@@ -1,0 +1,52 @@
+Technical Skills
+
+Programming:
+Python
+
+Machine Learning:
+Scikit-learn
+XGBoost
+LightGBM
+Optuna
+SHAP
+
+Data Analysis:
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+
+Backend Development:
+FastAPI
+Pydantic
+
+Databases:
+SQLite
+SQL
+
+Deployment:
+Docker
+Render
+Vercel
+Git
+GitHub
+
+
+Machine Learning Topics:
+Feature Engineering
+Model Evaluation
+Cross Validation
+Hyperparameter Tuning
+Threshold Optimization
+Class Imbalance Handling
+Explainable AI
+Model Deployment
+
+Current Learning Topics:
+PyTorch
+Neural Networks
+RAG Systems
+Vector Databases
+MLOps
+Software Engineering

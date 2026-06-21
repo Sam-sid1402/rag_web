@@ -1,0 +1,39 @@
+Deployment Experience
+
+Portfolio Website:
+Personal portfolio website showcasing machine learning projects and interactive demonstrations.
+
+Frontend:
+Next.js
+React
+Tailwind CSS
+Hosted on Vercel
+
+Backend:
+FastAPI
+Hosted on Render
+
+Machine Learning Deployment:
+Model artifacts stored and loaded for inference.
+Prediction APIs built using FastAPI.
+REST endpoints created for real-time predictions.
+
+Infrastructure Experience:
+Docker basics
+Git
+GitHub
+Render deployment
+Vercel deployment
+
+Project Workflow:
+Data preparation
+Feature engineering
+Model training
+Evaluation
+Hyperparameter optimization
+API development
+Frontend integration
+Cloud deployment
+
+Current Goal:
+Expand deployment knowledge toward production-grade ML systems, monitoring, CI/CD, and MLOps practices.
