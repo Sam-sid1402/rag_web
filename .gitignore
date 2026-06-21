@@ -45,4 +45,4 @@ temp/
 # data/*.txt is the public RAG knowledge base and should be committed.
 # data/chroma_langchain_db/ is small in this project, so it can also be committed.
 # If the Chroma DB becomes large later, add this line back:
-# data/chroma_langchain_db/
+data/chrom_langchain_db/

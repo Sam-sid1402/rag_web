@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
+from fastapi.middleware.cors import CORSMiddleware
 
 from app.rag.chain import answer_question
 from app.rag.memory import add_message, clear_history, get_history
@@ -9,6 +10,20 @@ app = FastAPI(
     title="Semyon Portfolio RAG API",
     version="0.1.0",
     description="A portfolio RAG API that answers questions about Semyon Sidorov's ML projects, skills, and experience.",
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+        "https://samsid1402.com",
+        "https://www.samsid1402.com",
+        "https://ml-engineer-portfolio.vercel.app",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 vector_store = load_vectorstore(create_if_missing=True)
